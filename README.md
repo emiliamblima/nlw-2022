@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat.
 
-🔗 [Clique aqui para acessar](https://emiliamenezes.github.io/nlw-2022)
+🔗 [Clique aqui para acessar](https://emiliamblima.github.io/nlw-2022)
 
 ## 👩‍💻 Tecnologias
 
